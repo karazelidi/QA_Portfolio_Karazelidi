@@ -1,5 +1,3 @@
----
-
 ### 📄 Documentation
 
 | Document | Description |
@@ -8,8 +6,6 @@
 | [📋 **STD – Test Cases**](./STD_Website_Testing_Project.xlsx) | Contains detailed functional test cases for login, registration, cart, and checkout modules. |
 | [🧾 **STR – Test Report**](./STR_Website_Testing_Project.pdf) | Summarizes testing results, issues found, and conclusions. |
 | [🐞 **Bug Reports**](./Bug_Reports.pdf) | Collection of bugs discovered during testing, documented with steps and screenshots. |
-
----
 
 ### 📸 Screenshots
 
