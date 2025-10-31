@@ -10,3 +10,13 @@
 ### 📸 Screenshots
 
 See the [`Screenshots`](./Screenshots) folder for visual evidence of testing and reported defects.
+
+## 🧾 Test Design (STD)
+
+📂 **File:** [STD_Demo_Web_Shop_v1.1.xlsx](./STD_Demo_Web_Shop_v1.1.xlsx)  
+📋 **Description:** Contains detailed manual test cases for Demo Web Shop:  
+- Registration, Login, Cart scenarios  
+- Steps, Expected Results, Screenshots  
+- Final completion rate: **100% (5/5 passed)**  
+✅ **Status:** All cases successfully executed
+
