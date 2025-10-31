@@ -24,7 +24,7 @@ See the [`Screenshots`](./Website_Testing_Project/Screenshots) folder for visual
 
 ## 🧾 Test Design (STD)
 
-📂 **File:** [STD Demo Web Shop v1.1.xlsx](./Website_Testing_Project/STD_Demo_Web_Shop_v1.1.xlsx)  
+📂 **File:** [STD Demo Web Shop v1.1.xlsx](./STD_Demo_Web_Shop_v1.1.xlsx)
 📋 **Description:** Contains detailed manual test cases for *Demo Web Shop*, including:
 - Registration, Login, Cart modules  
 - Preconditions, Steps, and Expected Results  
