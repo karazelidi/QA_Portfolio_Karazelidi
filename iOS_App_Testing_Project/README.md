@@ -26,16 +26,6 @@ Testing included functional, UI/UX, and regression coverage of core features suc
 
 ---
 
-## 📂 Screenshots
-See the `/Screenshots` folder for captured evidence of test cases and bugs, including:
-- App launch and homepage validation  
-- Search freeze (BUG-001)  
-- Filter “Reset” issue (BUG-002)  
-- Cart counter failure (BUG-003)  
-- Store map crash (BUG-004)
-
----
-
 ## 🧪 Test Summary
 
 | **Metric** | **Result** |
